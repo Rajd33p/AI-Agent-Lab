@@ -1,0 +1,8 @@
+flask-blogging
+uWSGI==2.0.19.1
+Flask==2.0.2
+SQLAlchemy==1.4.31
+Markdown==3.3.6
+Werkzeug==2.0.2
+feedwerk==1.1.0
+
